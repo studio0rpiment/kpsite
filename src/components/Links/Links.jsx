@@ -11,7 +11,7 @@ const Links = () => {
     { title: 'VIMEO', url: 'https://vimeo.com/user1198196' },
     { title: 'BANDCAMP', url: 'https://kevinpatton.bandcamp.com/' },
     // { title: 'TWITTER', url: 'https://twitter.com/example' },
-    { title: 'ACADEMIC ACTIVITIES', url: 'https://cv.kevinpatton.site' },
+    { title: 'ACADEMIC ACTIVITIES', url: 'https://kpcv.cargo.site/' },
     { title: 'CONTACT', url: 'mailto:el.kevo@gmail.com' }
   ];
 
