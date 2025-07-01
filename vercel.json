@@ -2,14 +2,36 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/index.html"
+      "destination": "/index.html",
+      "has": [
+        {
+          "type": "host",
+          "value": "kevinpatton.site"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html",
+      "has": [
+        {
+          "type": "host", 
+          "value": "www.kevinpatton.site"
+        }
+      ]
     }
   ],
   "redirects": [
     {
-      "source": "/cv",
+      "source": "/(.*)",
       "destination": "https://kpcv.cargo.site",
-      "permanent": true
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "cv.kevinpatton.site"
+        }
+      ]
     }
   ],
   "buildCommand": "npm run build",
