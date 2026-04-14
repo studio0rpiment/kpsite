@@ -6,11 +6,12 @@ import './Links.css';
 const Links = () => {
   const LINKS = [
     { title: 'WORK', url: 'https://kpcv.cargo.site/' },
+    { title: 'VIMEO', url: 'https://vimeo.com/user1198196' },
+    { title: 'BANDCAMP', url: 'https://kevinpatton.bandcamp.com/' },
     { title: 'BA/BFA INTERACTION DESGIGN @ GWU', url: 'https://corcoran.gwu.edu/undergraduate-interaction-design' },
     { title: 'MA INTERACTION DESGIGN @ GWU', url: 'https://corcoran.gwu.edu/interaction-design-graduate' },
     // { title: 'MA INTERACTION DESGIGN @ GWU', url: 'https://corcoran.gwu.edu/kevin-patton' },
-    { title: 'VIMEO', url: 'https://vimeo.com/user1198196' },
-    { title: 'BANDCAMP', url: 'https://kevinpatton.bandcamp.com/' },
+
     // { title: 'TWITTER', url: 'https://twitter.com/example' },
  
     
