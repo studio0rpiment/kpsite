@@ -14,7 +14,7 @@ const Links = () => {
     // { title: 'TWITTER', url: 'https://twitter.com/example' },
  
     
-    { title: 'CONTACT', url: 'mailto:el.kevo@gmail.com' }
+    { title: 'CONTACT', url: 'mailto:kevin@orpiment.studio' }
   ];
 
   return (
