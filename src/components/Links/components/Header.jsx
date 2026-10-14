@@ -25,7 +25,7 @@ const Header = () => (
       <h1 className="header-title">Kevin Patton PHD</h1>
       <Logo classname="logo" />
     </div>
-    <p className="header-subtitle">Kevin Patton is a designer, musician, and creative technologist who works at the intersection of computational systems and creative expression. </p>
+    <p className="header-subtitle">Kevin Patton is a creative technologist who works at the intersection of computational systems and creative expression. </p>
   </header>
 );
 

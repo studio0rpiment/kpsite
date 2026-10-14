@@ -1,7 +1,7 @@
 /* Local font */
 @font-face {
-  font-family: 'Afrikola Informal';
-  src: url('/fonts/AfrikolaInformal-Regular.woff2') format('woff2');
+  font-family: 'Gulax';
+  src: url('/fonts/Gulax-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -37,7 +37,7 @@ html, body {
 .links-container {
   min-height: 100vh;
   background-color: var(--color-background);
-  font-family: 'Afrikola Informal', sans-serif;
+  font-family: 'Gulax', sans-serif;
 }
 
 .links-wrapper {
