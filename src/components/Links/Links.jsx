@@ -13,10 +13,10 @@ const Links = () => {
     // { title: 'MA INTERACTION DESGIGN @ GWU', url: 'https://corcoran.gwu.edu/kevin-patton' },
 
     // { title: 'TWITTER', url: 'https://twitter.com/example' },
- 
+  // { title: 'TWITTER', url: 'https://twitter.com/example' },
     
     { title: 'CONTACT', url: 'mailto:kevin@orpiment.studio' }
-    { title: 'ACADEMIC ACTIVITIES', url: 'https://cv.cargo.site/' },
+    { title: 'ACADEMIC ACTIVITIES', url: 'https://cv.kevinpatton.site/' },
     { title: 'CONTACT', url: 'mailto:el.kevo@gmail.com' }
   ];
 
